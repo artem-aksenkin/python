@@ -4,4 +4,4 @@ c = []
 i = len(a+b)
 for i in a and b:
     c.append(i)
-print('Common values in a&b is', c)
+print('Common values in a & b is', c)
