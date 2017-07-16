@@ -5,3 +5,6 @@ for n in range(2, 10):
             break
     else:
         print(n, 'is a prime number')
+
+squares = [x**2 for x in range(10)]
+print(squares)
